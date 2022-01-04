@@ -40,6 +40,7 @@ const Section = ({children, title}): Node => {
         {title}
       </Text>
       <Text> hello this is vithushan</Text>
+      <Text> hello this is Pirunthaban</Text>
       <Text
         style={[
           styles.sectionDescription,
